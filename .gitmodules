@@ -1,0 +1,3 @@
+[submodule "flink-training-exercises"]
+	path = flink-training-exercises
+	url = https://github.com/username/flink-training-exercises.git
