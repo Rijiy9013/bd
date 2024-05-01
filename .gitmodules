@@ -1,6 +1,0 @@
-[submodule "flink-training-exercises"]
-	path = flink-training-exercises
-	url = https://github.com/ververica/flink-training-exercises
-[submodule "lr3/flink-training-exercises"]
-	path = lr3/flink-training-exercises
-	url = https://github.com/ververica/flink-training-exercises
